@@ -37,7 +37,7 @@ ___
 
 ___
 ## Команда разработчиков:
-- [Тиньков Максим](https://github.com/Vasy495)
+- [Тиньков Максим](https://github.com/mytinkov)
 - [Гетманский Александр](https://github.com/Apgettman)
 - [Измайлова Наталья](https://github.com/lisichkaNataly)
 
